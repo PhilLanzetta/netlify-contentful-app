@@ -18,6 +18,15 @@ const Sidebar = () => {
       <Button size='medium' isFullWidth onClick={triggerBuildHook}>
         Build Netlify Preview
       </Button>
+      <Button
+        size='medium'
+        isFullWidth
+        as='a'
+        href='https://preview--thekitchendev.netlify.app'
+        target='_blank'
+      >
+        Open Preview Site
+      </Button>
     </Stack>
   )
 }
