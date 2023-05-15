@@ -22,7 +22,7 @@ const Sidebar = () => {
         size='medium'
         isFullWidth
         as='a'
-        href='https://preview--thekitchendev.netlify.app'
+        href='https://preview--thekitchen.org'
         target='_blank'
       >
         Open Preview Site
